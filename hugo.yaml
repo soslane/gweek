@@ -3,7 +3,7 @@
 baseURL: "https://blog.myla.eu.org/"
 title: Gweek
 copyright: "© Gweek"
-paginate: 5
+paginate: 10
 theme: [PaperMod]
 
 enableInlineShortcodes: true
