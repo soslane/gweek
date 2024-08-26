@@ -4,6 +4,7 @@ title:        "虚拟化技术 镜像与快照管理"
 author:       "Gweek"
 header-style: text
 catalog:      true
+date:         2024-08-12
 tags:
     - 虚拟化   
 
