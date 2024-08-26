@@ -4,6 +4,7 @@ title:        "ChatGPT Prompts"
 author:       "Gweek"
 header-style: text
 catalog:      true
+date:         2024-06-21
 tags:
     - Ai
 ---
