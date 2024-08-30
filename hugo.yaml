@@ -98,7 +98,7 @@ params:
   socialIcons:
     - name: github
       title: Github
-      url: "https://github.com/soslane"
+      url: "https://github.com/soslane/gweek"
     - name: email
       title: E-mail
       url: "mailto:soslane@proton.me"
