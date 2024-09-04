@@ -5,6 +5,8 @@ author:       "Gweek"
 header-style: text
 catalog:      true
 date:         2024-06-21
+cover:
+    image: "https://img.myla.eu.org/file/d55bfa8f6f28a5fca0a50.png"
 tags:
     - Ai
 ---
