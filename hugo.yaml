@@ -114,7 +114,7 @@ params:
 
   editPost:
     URL: "https://github.com/soslane/gweek/tree/main/content"
-    Text: "Suggest Changes" # edit text
+    Text: "Post Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
   label:
@@ -136,8 +136,8 @@ params:
     safari_pinned_tab: "assets/1.png"
 
   cover:
-       hidden: true # hide everywhere but not in structured data
-       hiddenInList: true # hide on list pages and home
+       hidden: false # hide everywhere but not in structured data
+       hiddenInList: false # hide on list pages and home
        hiddenInSingle: true # hide on single page
 
   # fuseOpts:
