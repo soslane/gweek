@@ -4,7 +4,7 @@ author: Gweek
 draft: false
 date: 2024-03-20T17:30:45+08:00
 cover:
-    image: "https://img.myla.eu.org/api/file/3006a63fafe110accd3ee.jpg"
+    image: "https://img.myla.eu.org/file/e8f0b6be5cffb6bc8a1da.png"
 tags:
     - welcome
 ---
