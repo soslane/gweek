@@ -5,6 +5,8 @@ draft: false
 date: 2024-08-30
 tags:
     - hexo
+cover:
+    image: "https://img.myla.eu.org/file/2a995db4bb75597646e75.png"
 keywords: hexo
 description: 什么是hexo，hexo目录结构，hexo安装过程
 ---
