@@ -5,6 +5,8 @@ author:       "Gweek"
 header-style: text
 catalog:      true
 date:         2024-08-12
+cover:
+    image: "https://img.myla.eu.org/file/0a8f7e327a138a97b0baf.png"
 tags:
     - 虚拟化   
 
