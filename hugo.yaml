@@ -88,9 +88,9 @@ params:
       - name: Tags
         url: tags
 
-  # homeInfoParams:
-  #  Title: "Hi there"
-  #  Content: >
+  homeInfoParams:
+    Title: "Hi there"
+    Content: >
       
       
       - 当你竭尽全力却未能达成所愿，面对结局的拷问，有太多的意难平。人生不知何时会按下停止键，既然如此，何不让时时刻刻有可能成为突然结局的那一刻画面都保持美好？雪不应落在沙地上，人生亦不应留下遗憾。
