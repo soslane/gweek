@@ -107,7 +107,7 @@ params:
       url: "https://img.myla.eu.org"
     - name: youtube
       title: Youtube
-      url: "https://www.youtube.com/@lanechow	"  
+      url: "https://www.youtube.com/@lanechow"
     - name: RsS
       url: "index.xml"
 
